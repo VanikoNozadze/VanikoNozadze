@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://github.com/vanikonozadze/VanikoNozadze/assets/115501603/dec4c399-22f3-4543-82b5-4b4c4b0d3891)
 <h1 align="center">Hi 👋, I'm Vaniko Nozadze</h1>
 <h3 align="center">Beginner Web & Android developer.</h3>
 
