@@ -1,8 +1,6 @@
 ![MasterHead](https://github.com/vanikonozadze/VanikoNozadze/assets/115501603/dec4c399-22f3-4543-82b5-4b4c4b0d3891)
 <h1 align="center">Hi 👋, I'm Vaniko Nozadze</h1>
-<h3 align="center">Beginner Web & Android developer.</h3>
-
-- 🌱 I’m currently learning **Android development (Java & Kotlin)**
+<h3 align="center">Beginner Web developer.</h3>
 
 - 📫 How to reach me **vaniko.nozadze11@gmail.com**
 
