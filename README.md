@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaniko Nozadze</h1>
-<h3 align="center">Beginner Web developer.</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🌱 I’m currently learning **Front-end development**
 
