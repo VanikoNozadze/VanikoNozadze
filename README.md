@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaniko Nozadze</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **Front-end development**
+- 🌱 I’m currently learning **Full-Stack development**
 
 - 📫 How to reach me **vaniko.nozadze11@gmail.com**
 
