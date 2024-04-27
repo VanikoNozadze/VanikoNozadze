@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaniko Nozadze</h1>
-<h3 align="center">Web Developer from Tbilisi, Georgia</h3>
+<h3 align="center">Software Engineer from Tbilisi, Georgia</h3>
 
-- 🌱 I’m currently learning **Full-Stack development**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **vaniko.nozadze11@gmail.com**
 
