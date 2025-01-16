@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaniko Nozadze</h1>
 <h3 align="center">Software Engineer from Tbilisi, Georgia</h3>
 
-- 💻 Working at DevsData as a **Software Engineer**
-
-- 🌱 I’m currently learning **Web development**
-
 - 📫 How to reach me **vaniko.nozadze11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
